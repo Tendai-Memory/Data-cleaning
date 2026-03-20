@@ -43,7 +43,7 @@ These KPIs offer a comprehensive overview of the business’s overall performanc
 	- Sales by customer		
 			
 	```SQL		
-	%%sql
+	
 SELECT 
     Discount,
     ROUND(AVG(Profit), 2) AS Avg_Profit,
