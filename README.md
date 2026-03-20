@@ -42,7 +42,8 @@ These KPIs offer a comprehensive overview of the business’s overall performanc
 	- Sales by segment		
 	- Sales by customer		
 			
-	```SQL		
+	```SQL
+ %%sql		
 	
 SELECT 
     Discount,
