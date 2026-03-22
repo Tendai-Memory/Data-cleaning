@@ -13,7 +13,7 @@ insights that support data-driven decision making within a retail environment.
 # Major Metrics		
 - Total Sales $12,46M
 - Total Revenue: $1,47million					
-- Total Orders: 				
+- Total Orders: 26K				
 - Average Sales per Customer 725,95
 - Profit Ratio			
 These KPIs offer a comprehensive overview of the business’s overall performance.
