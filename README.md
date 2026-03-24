@@ -6,7 +6,7 @@ insights that support data-driven decision making within a retail environment.
 					
 # Tools Employed					
 - Excel - Data Cleaning & Analysis								
-- [Download_here](https://docs.google.com/spreadsheets/d/1oE5Mab7KBvIfHK8WFMZ4jNFm_QeJDG_Wql4zsGghcDY/edit?usp=sharing)								
+- [Download_here]https://docs.google.com/spreadsheets/d/1oE5Mab7KBvIfHK8WFMZ4jNFm_QeJDG_Wql4zsGghcDY/edit?usp=sharing								
 - SQL Server - Further Data Cleaning and Analysis								
 - PowerBI - Creating Reports
 - 							
