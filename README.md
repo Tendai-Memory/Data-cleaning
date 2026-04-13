@@ -7,8 +7,11 @@ insights that support data-driven decision making within a retail environment.
 # Tools Employed					
 - Excel - Data Cleaning & Analysis								
 - [Download_here]https://docs.google.com/spreadsheets/d/1oE5Mab7KBvIfHK8WFMZ4jNFm_QeJDG_Wql4zsGghcDY/edit?usp=sharing								
-- SQL Server - Further Data Cleaning and Analysis								
+- SQL Server - Further Data Cleaning and Analysis
+- Jupyter Notebooks
+- [Download here]								
 - PowerBI - Creating Reports
+- [Download here]https://drive.google.com/file/d/1Yq5v_kXOl2DoR5HBH4rsVPoiWnLAOY4m/view?usp=sharing
 - 							
 # Major Metrics		
 - Total Sales $12,46M
