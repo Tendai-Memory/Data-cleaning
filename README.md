@@ -12,7 +12,8 @@ insights that support data-driven decision making within a retail environment.
 - [Download here]								
 - PowerBI - Creating Reports
 - [Download here]https://drive.google.com/file/d/1Yq5v_kXOl2DoR5HBH4rsVPoiWnLAOY4m/view?usp=sharing
-- 							
+  ## Dashboard Preview
+   (Image here)  				
 # Major Metrics		
 - Total Sales $12,46M
 - Total Revenue: $1,47million					
