@@ -13,7 +13,7 @@ insights that support data-driven decision making within a retail environment.
 - PowerBI - Creating Reports
 - [Download here]https://drive.google.com/file/d/1Yq5v_kXOl2DoR5HBH4rsVPoiWnLAOY4m/view?usp=sharing
 ## Power BI Dashboard
-[<img width="965" height="537" alt="Dashboard1" src="https://github.com/user-attachments/assets/17e2d06e-8a91-4eb2-8899-3bc90df5b6c5" />
+<img width="965" height="537" alt="Dashboard1" src="https://github.com/user-attachments/assets/17e2d06e-8a91-4eb2-8899-3bc90df5b6c5" />
 
 	
 # Major Metrics		
