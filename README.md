@@ -22,34 +22,35 @@ insights that support data-driven decision making within a retail environment.
 - Total Orders: 26K				
 - Average Sales per Customer 725,95
     
-These KPIs offer a comprehensive overview of the business’s overall performance.
+ These KPIs offer a comprehensive overview of the business’s overall performance.
 						
-	### Data Cleaning/ Preparation					
+  ## Data Cleaning/ Preparation					
 						
-	In the initial phase, we performed the following tasks.					
+  In the initial phase, we performed the following tasks.					
 	1. Data loading and inspection					
 	2. Handling missing values					
 	3. Removed duplicates					
 	4. Data cleaning and formatting					
 						
-	### Exploratory Data Analysis					
+ ## Exploratory Data Analysis					
 						
-	EDA involved exploring the sales data to answer the following questions, such as:					
-	- What is the overall sales trend?				
-	- What products are top sellers?					
-	- What are the peak sales periods?					
-	- Which regions are more profitable?					
-	- What is the impact of discounts on profitability?
+ EDA involved exploring the sales data to answer the following questions, such as:					
+ - What is the overall sales trend?				
+ - What products are top sellers?					
+ - What are the peak sales periods?					
+ - Which regions are more profitable?					
+ - What is the impact of discounts on profitability?
 			
-	Interesting code/features worked on		
-	- Excel		
-	- Sales by region by category		
-	- Profit by Category		
-	- Sales by segment		
-	- Sales by customer		
+ ## Interesting code/features worked on Excel
+ 
+ - Sales by region by category		
+ - Profit by Category		
+ - Sales by segment		
+ - Sales by customer
+     
+## SQL Analysis Query
 			
-	```SQL
- %%sql		
+```SQL 		
 	
 SELECT 
     Discount,
@@ -59,7 +60,7 @@ SELECT
 FROM Orders
 GROUP BY Discount
 ORDER BY Discount;	
-	```					
+```					
 										
 					
 # Key Findings					
